@@ -37,3 +37,6 @@ The project demonstrates how to process large datasets efficiently using Spark R
 1. Install PySpark:
 ```bash
 pip install pyspark
+```
+
+💬 “Added new files and dataset from Kaggle to experiment with PySpark SQL for data analysis.”
